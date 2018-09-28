@@ -1,2 +1,2 @@
 # lora
-quang0302 join project
+hello my name quang
