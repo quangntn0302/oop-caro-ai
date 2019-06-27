@@ -1,0 +1,11 @@
+D:\Study\Project\oop\oop\obj\Debug\oop.csprojAssemblyReference.cache
+D:\Study\Project\oop\oop\obj\Debug\oop.Properties.Resources.resources
+D:\Study\Project\oop\oop\obj\Debug\oop.csproj.GenerateResource.cache
+D:\Study\Project\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+D:\Study\Project\OOP\oop\bin\Debug\oop.exe.config
+D:\Study\Project\OOP\oop\bin\Debug\oop.exe
+D:\Study\Project\OOP\oop\bin\Debug\oop.pdb
+D:\Study\Project\OOP\oop\obj\Debug\oop.exe
+D:\Study\Project\OOP\oop\obj\Debug\oop.pdb
+D:\Study\Project\OOP\oop\obj\Debug\oop.Intro.resources
+D:\Study\Project\OOP\oop\obj\Debug\oop.frmCoCaro.resources
